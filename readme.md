@@ -5,13 +5,13 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm  Muktadir </h1>
 
-<br/>
+<!-- <br/>
 
 <p align="center">
     <a href="https://github.com/Parasite-231/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Parasite-231" src="https://github-readme-streak-stats.herokuapp.com/?user=Parasite-231&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
 <!-- ## 📊 My Github Stats
 
