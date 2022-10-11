@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/JYZWs0UkzK2WKBoCUM" height="155px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://giphy.com/embed/JYZWs0UkzK2WKBoCUM" height="155px"/></a> -->
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JYZWs0UkzK2WKBoCUM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-JYZWs0UkzK2WKBoCUM">via GIPHY</a></p>
 
 <!--
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif" height="175px"/></a> -->
