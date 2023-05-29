@@ -70,7 +70,7 @@
 - 📄 Know about my experiences [sd](sd)
 
 - ⚡ Fun fact **sd** -->
-
+<p align="center"><img  src="./programmer.gif" width="50%" alt="parasite-231" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/rww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rww" height="30" width="40" /></a> -->
@@ -115,8 +115,6 @@
           <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Parasite-231&show_icons=true&locale=en&layout=compact" alt="parasite-231" /></p>
-
-<p><img align="right" src="./programmer.gif" width="50%" alt="parasite-231" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Parasite-231&show_icons=true&locale=en" alt="parasite-231" /></p>
 
