@@ -118,5 +118,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Parasite-231&show_icons=true&locale=en" alt="parasite-231" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Parasite-231&" alt="parasite-231" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Parasite-231&" alt="parasite-231" /></p>
 ****
