@@ -47,17 +47,19 @@
 <h1 align="center">Hi 👋, I'm Muktadir</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Parasite-231&label=Profile%20views&color=0e75b6&style=flat" alt="parasite-231" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Parasite-231&label=Profile%20views&color=0e75b6&style=flat" alt="parasite-231" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Parasite-231" alt="Parasite-231" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Parasite-231" alt="Parasite-231" /></a> </p>
 
-<!-- - 🔭 I’m currently working on ****
+- 📩 How to reach me muktadir@iut-dhaka.edu
 
-- 🌱 I’m currently learning **sds**
+- 👨‍🎓 I am currently pursuing my B.Sc. degree in Software Engineering
 
-- 👯 I’m looking to collaborate on **dsd**
+- 💻 I am currently learning Frameworks & Tools for web applications
 
-- 🤝 I’m looking for help with **sds**
+<!-- - 👯 I’m looking to collaborate on **dsd** -->
+
+<!-- - 🤝 I’m looking for help with **sds**
 
 - 👨‍💻 All of my projects are available at [dss](dss)
 
@@ -67,9 +69,9 @@
 
 - 📫 How to reach me **sds**
 
-- 📄 Know about my experiences [sd](sd)
+- 📄 Know about my experiences [sd](sd)-->
 
-- ⚡ Fun fact **sd** -->
+<!-- - ⚡ Fun fact **sd**  -->
 <p align="center"><img  src="./programmer.gif" width="50%" alt="parasite-231" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
