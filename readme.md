@@ -53,7 +53,7 @@
 
 - 📩 How to reach me muktadir@iut-dhaka.edu
 
-- 👨‍🎓 I am currently pursuing my B.Sc. degree in Software Engineering
+- 👨‍🎓 I have completed my B.Sc. degree in Software Engineering
 
 - 💻 I am currently learning Frameworks & Tools for web applications
 
