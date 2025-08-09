@@ -51,7 +51,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Parasite-231" alt="Parasite-231" /></a> </p>
 
-- 📩 How to reach me muktadir@iut-dhaka.edu
+- 📩 How to reach me mkdirmzm@gmail.com
 
 - 👨‍🎓 I have completed my B.Sc. degree in Software Engineering
 
