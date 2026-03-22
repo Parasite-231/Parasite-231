@@ -53,9 +53,6 @@
 
 - 📩 How to reach me mkdirmzm@gmail.com
 
-- 👨‍🎓 I have completed my B.Sc. degree in Software Engineering
-
-- 💻 I am currently learning Frameworks & Tools for web applications
 
 <!-- - 👯 I’m looking to collaborate on **dsd** -->
 
